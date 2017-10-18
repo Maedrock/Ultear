@@ -4,7 +4,7 @@ class SecretCommand extends Command {
     constructor() {
         super('say', {
             aliases: ['say'],
-            prefix: 'Aida ',
+            prefix: 'Ultear ',
             split: 'none',
             args: [
                 {

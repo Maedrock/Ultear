@@ -1,5 +1,5 @@
 {
-  "name": "aida-bot",
+  "name": "ultear-bot",
   "version": "0.0.1",
   "description": "",
   "main": "bot.js",
@@ -21,13 +21,12 @@
   "keywords": [
     "discord",
     "bot",
-    "aida",
     "hydra"
   ],
-  "author": "TheDiaval",
+ "author": "Amorphous",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thediavall/aida-bot/issues"
+    "url": "https://github.com/Maedrock/Ultear/issues"
   },
-  "homepage": "https://github.com/thediavall/aida-bot#readme"
+  "homepage": "https://github.com/Maedrock/Ultear#readme"
 }

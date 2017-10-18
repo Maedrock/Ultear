@@ -2,7 +2,7 @@ const { AkairoClient } = require('discord-akairo');
 
 const client = new AkairoClient({
     ownerID: '131753542628278272', 
-    prefix: '!', 
+    prefix: '-', 
     defaultCooldown: 1000,
     commandDirectory: './commands/',
     listenerDirectory: './listeners/'
