@@ -1,24 +1,33 @@
 {
-  "name": "ultear",
-  "version": "1.0.0",
-  "description": "A discord bot for something big.",
-  "main": "ultear.js",
+  "name": "aida-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord-akairo": "^7.5.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "discord-akairo": "^7.5.0",
-    "discord.js": "^11.2.1"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maedrock/Ultear.git"
+    "url": "git+https://github.com/thediavall/aida-bot.git"
   },
-  "author": "Amorphous",
+  "keywords": [
+    "discord",
+    "bot",
+    "aida",
+    "hydra"
+  ],
+  "author": "TheDiaval",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Maedrock/Ultear/issues"
+    "url": "https://github.com/thediavall/aida-bot/issues"
   },
-  "homepage": "https://github.com/Maedrock/Ultear#readme"
+  "homepage": "https://github.com/thediavall/aida-bot#readme"
 }

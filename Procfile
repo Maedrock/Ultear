@@ -1,1 +1,1 @@
-worker: node ultear.js
+worker: node bot.js
