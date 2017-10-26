@@ -3,7 +3,7 @@ var config = {};
 
 config.botName = "Ultear";
 config.prefix = "-";
-config.serverName = "Hydra Corporation";
+config.serverName = "Hydra Engineering Facility";
 config.text_channelName = "bot";
 config.voice_channelName = "Test 1";
 
