@@ -2,9 +2,9 @@
   "name": "ultear-bot",
   "version": "0.0.1",
   "description": "",
-  "main": "bot.js",
+  "main": "main.js",
   "scripts": {
-    "start": "bot.js"
+    "start": "main.js"
   },
   "dependencies": {
     "discord.js": "^11.2.1",
